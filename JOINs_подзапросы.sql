@@ -37,7 +37,6 @@ create table phones_samsung(
 )
 
 
-
 insert into phones_samsung(model, ram, front_camera, price)
 values ('A50', 6, 10, 300),
     ('A50', 8, 10, 400),
