@@ -144,7 +144,6 @@ join roles r
 where role_name like '%Senior%';
 
 
-
 --15. Вывести зарплаты Java разработчиков
 select employee_name, monthly_salary, role_name
 from employees e
